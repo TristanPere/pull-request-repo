@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&family=Noto+Sans:wght@300&display=swap');
+
+h1 {
+    font-family: 'Anonymous Pro', monospace;
+
+}
+
+h2 {
+    font-family: 'Noto Sans', sans-serif; 
+}
+
+h2:hover {
+   font-weight: bold;
+   text-transform: uppercase;
+}
+
+h2:active {
+    color: green;
+    text-decoration-line: underline;
+}
